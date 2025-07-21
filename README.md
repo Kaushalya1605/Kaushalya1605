@@ -18,68 +18,69 @@
 ### 🛠️ Technologies & Tools:
 <table>
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/><br>
       <b>React</b>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/><br>
       <b>Node.js</b>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express.js"/><br>
       <b>Express.js</b>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/><br>
       <b>MongoDB</b>
     </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br>
       <b>JavaScript</b>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/><br>
       <b>HTML5</b>
     </td>
-    <td align="center" style="padding: 10px;">
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/><br>
       <b>CSS3</b>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br>
       <b>Java</b>
     </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP"/><br>
       <b>PHP</b>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/><br>
       <b>MySQL</b>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/><br>
       <b>C</b>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/><br>
       <b>C++</b>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br>
       <b>Git</b>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br>
       <b>GitHub</b>
     </td>
+    <!-- Empty cells to keep layout consistent -->
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
